@@ -1,0 +1,6 @@
+{
+  "name": "عون فرما",
+  "description": "تطبيق صيدلاني ذكي مدعوم بالذكاء الاصطناعي للاستشارات الطبية الدقيقة والمنافسات العلمية التفاعلية",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
